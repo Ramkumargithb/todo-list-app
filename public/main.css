@@ -1,0 +1,48 @@
+*{
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+
+}
+
+.container{
+  width: 100%;
+  min-height: 100vh;
+  background-image: url("/public/koa1.jpg");
+  padding: 10px;
+}
+
+.todo{
+  width: 100%;
+  max-width: 540px;
+  background: #fff;
+  margin: 100px auto 20px;
+  padding: 40px 30px 70px;  
+  border-radius: 10px;
+}
+
+.todo h2{
+  color: rgb(247, 116, 162);
+  display: flex;
+  align-items: center;
+  margin:auto;
+}
+
+.row{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #9ab69a;
+  border-radius: 15px;
+  padding: 2px 2px 2px;
+  margin-bottom: 2px;
+  font-size: medium;
+}
+
+input{
+  flex: 1;
+  border: none;
+  outline-offset: 0px;
+  padding: 2px 2px 2px;
+  
+}
