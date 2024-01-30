@@ -14,7 +14,7 @@
 ![Alt Text](https://github.com/Ramkumargithb/todo-list-app/blob/master/11.png)
 ![Alt Text](https://github.com/Ramkumargithb/todo-list-app/blob/master/12.png)
 
-#### for the back end use cloud mongo db create auser in atlas  item:{
+#### for the back end use cloud mongo db create a user in atlas  item:{
  ####       type:String,
  ####       required: true
  ####   },
