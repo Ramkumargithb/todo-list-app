@@ -13,3 +13,13 @@
 ![Alt Text](https://github.com/Ramkumargithb/todo-list-app/blob/master/10.png)
 ![Alt Text](https://github.com/Ramkumargithb/todo-list-app/blob/master/11.png)
 ![Alt Text](https://github.com/Ramkumargithb/todo-list-app/blob/master/12.png)
+
+#### for the back end use cloud mongo db create auser in atlas  item:{
+ ####       type:String,
+ ####       required: true
+ ####   },
+ ####   description: {
+ ####       type: String
+ ####   }
+
+ #### and make the connection to client mongodb+srv://mern:<password>@mern.zlth6ti.mongodb.net/?fheshgftryWrites=true&w=majority Replace <password> with the password for the mern user.
